@@ -3,6 +3,8 @@
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
+
+
 The Chinook database is a sample database designed to represent a digital media store, making it an excellent resource for practicing SQL and database management. It contains 11 tables that hold various types of information, including details about artists, albums, tracks, customers, invoices, and employees. The data model reflects the operations of a music store, where artists create albums that contain tracks, and customers make purchases that are recorded in invoices. This structure allows users to perform complex queries and gain insights into sales patterns, customer behavior, and inventory management.
 
 
